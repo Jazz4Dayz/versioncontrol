@@ -25,10 +25,11 @@ def inc3(x: int) -> int:
     # TODO
     return None
 
+#this one mine
 def inc4(x: int) -> int: 
     ''' TODO takes an int and adds 4 to it ''' 
     # TODO
-    return None
+    return x += 4
 
 def inc5(x: int) -> int: 
     ''' TODO takes an int and adds 5 to it ''' 
